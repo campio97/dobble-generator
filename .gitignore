@@ -1,0 +1,6 @@
+.venv
+venv
+build
+windowsVenv
+dist
+dobble_generator_gui.spec

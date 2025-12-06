@@ -1,0 +1,6 @@
+customtkinter
+fpdf
+pillow
+darkdetect
+packaging
+pyinstaller
